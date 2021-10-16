@@ -1,5 +1,5 @@
 # Full-stack-nodejs-reactjs
-This is simple full-stack for search user data using Node.js as backend and React.js for front end with front-side processing.
+This is simple full-stack for search user data using Node.js as backend and React.js for front end with client-side processing.
 
 - The backend will be running on port:5000
 - The frontend will be running on port:3000
